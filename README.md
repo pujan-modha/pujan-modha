@@ -5,3 +5,4 @@
 - 🏗️ I’m currently building a distributed object storage system ([DOSS](https://github.com/pujan-modha/doss))
 - 🐦 You can follow me on Twitter: [@pujan_modha](https://x.com/pujan_modha)
 - 🌐 Check out my personal website at [pujan.pm](https://pujan.pm/)
+- 🧾 Check out [Mono Resume](https://monoresume.com), a free and open-source resume builder
